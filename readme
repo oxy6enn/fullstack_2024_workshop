@@ -1,0 +1,7 @@
+
+//วิธี Run Server
+node --watch server.js
+
+//วิธี migrate model prisma
+npx prisma migrate dev --name "ข้อความ"
+
